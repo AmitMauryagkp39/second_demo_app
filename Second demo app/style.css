@@ -1,0 +1,15 @@
+header {
+    background-color: green;
+    color: white;
+}
+
+
+main {
+    background-color: hotpink;
+    color: black;
+}
+
+footer {
+    border-color: skyblue;
+    color: black;
+}
